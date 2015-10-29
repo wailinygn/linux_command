@@ -1,3 +1,3 @@
-#WHAT IS THE SHELL?
+#1. WHAT IS THE SHELL?
 
-command line ဟု ေျပာဆိုၾကသည့္အခါ ကၽန္ေတာ္တို႔သည္ `shell` ကို ညႊန္းဆိုပါမည္။ `shell` သည္  ကီးဘုတ္မွ command မ်ား ရိုက္သြင္းၿပီး ခိုင္းေစညႊန္ၾကား၍ အလုပ္လုပ္ရေသာ program တစ္ခုျဖစ္ပါသည္။ Linux dictro  အမ်ားစုတြင္ GNU Project မွ `shell` program အား `bash`  ဟုေခၚသည္။
+command line ဟု ပြောဆိုကြသည့်အခါ ကျန်တော်တို့သည် `shell` ကို ညွှန်းဆိုပါမည်။ `shell` သည်  ကီးဘုတ်မှ command များ ရိုက်သွင်းပြီး ခိုင်းစေညွှန်ကြား၍ အလုပ်လုပ်ရသော program တစ်ခုဖြစ်ပါသည်။ Linux dictro  အများစုတွင် GNU Project မှ `shell` program အား `bash`  ဟုခေါ်သည်။ `bash` သည် "Bourne Again Shell" ၏ အတိုကောက် စာလုံးဖြစ်သည်။
